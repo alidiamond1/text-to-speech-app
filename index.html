@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Text to Speech</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Text to Speech</h1>
+            <button id="settingsButton" class="icon-button"><i class="fas fa-cog"></i></button>
+        </header>
+        <main>
+            <div class="input-container">
+                <textarea id="inputText" placeholder="Enter your text here..."></textarea>
+            </div>
+            <div class="controls">
+                <div class="select-wrapper">
+                    <select id="voiceSelect"></select>
+                </div>
+                <div class="rate-control">
+                    <label for="rateRange">Speed:</label>
+                    <input type="range" id="rateRange" min="0.5" max="2" step="0.1" value="1">
+                    <span id="rateValue">1x</span>
+                </div>
+                <button id="speakButton" class="primary-button"><i class="fas fa-play"></i> Speak</button>
+                <button id="stopButton" class="secondary-button"><i class="fas fa-stop"></i> Stop</button>
+                <button id="saveButton" class="secondary-button"><i class="fas fa-save"></i> Save</button>
+            </div>
+        </main>
+        <div id="outputArea" class="output-area"></div>
+    </div>
+    <script src="app.js" type="module"></script>
+</body>
+</html>
