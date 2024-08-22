@@ -9,8 +9,8 @@
   <a href="https://github.com/alidiamond1/text-to-speech-app/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
-  <a href="https://twitter.com/aliyare1113">
-    <img alt="Twitter: @aliyare1113" src="https://img.shields.io/twitter/follow/@aliyare1113.svg?style=social" target="_blank" />
+  <a href="https://twitter.com/@Alidiamond143">
+    <img alt="Twitter: Alidiamond143" src="https://img.shields.io/twitter/follow/@Alidiamond143.svg?style=social" target="_blank" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ This project is [MIT](https://github.com/alidiamond1/text-to-speech-app/blob/mai
 **Alidiamond**
 
 <!-- * Website: [yourwebsite.com](https://www.yourwebsite.com) -->
-* Twitter: [@aliyare1113](https://twitter.com/aliyare1113)
+* Twitter: [@Alidiamond143](https://twitter.com/Alidiamond143)
 * GitHub: [@alidiamond1](https://github.com/alidiamond1)
 * LinkedIn: [@alidiamond](https://www.linkedin.com/alidiamond)
 
