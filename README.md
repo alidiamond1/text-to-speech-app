@@ -95,4 +95,8 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/alidiamond1">Your Name</a></p>
+<p align="center">
+  <img src="/images/Screenshot 2024-08-22 125948.png" alt="Modern Text-to-Speech App Demo" width="600"/>
+</p>
+
+<p align="center">Made with ❤️ by <a href="https://github.com/alidiamond1">Alidiamond</a></p>
