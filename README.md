@@ -9,7 +9,7 @@
   <a href="https://github.com/alidiamond1/text-to-speech-app/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
-  <a href="https://twitter.com/@aliyare1113">
+  <a href="https://twitter.com/aliyare1113">
     <img alt="Twitter: @aliyare1113" src="https://img.shields.io/twitter/follow/@aliyare1113.svg?style=social" target="_blank" />
   </a>
 </p>
