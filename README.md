@@ -1,7 +1,7 @@
 # 🎙️ Modern Text-to-Speech App
 
 <p align="center">
-  <img src="app_logo.png" alt="Modern Text-to-Speech App Logo" width="200"/>
+  <img src="/images/app_logo.png" alt="Modern Text-to-Speech App Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 > A sleek, modern text-to-speech application that brings your words to life with style and efficiency.
 
 <p align="center">
-  <img src="text-to-speech-app.gif" alt="Modern Text-to-Speech App Demo" width="600"/>
+  <img src="/images/text-to-speech-app.gif" alt="Modern Text-to-Speech App Demo" width="600"/>
 </p>
 
 ## ✨ Features
